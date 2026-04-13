@@ -1,9 +1,12 @@
 # hellow_world
-
+## A New Flutter Project
+ 
 A new Flutter project.
 Nama : Fatma Azzahra Alif Hidayah
 NIM  : 244107060046
 Github : https://github.com/Fatmaazzahra24/
+
+![screenshoot hello world](build/img/1.jpeg)
 
 ## Getting Started
 
