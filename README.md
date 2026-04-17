@@ -6,7 +6,7 @@ Nama : Fatma Azzahra Alif Hidayah
 NIM  : 244107060046
 Github : https://github.com/Fatmaazzahra24/
 
-![screenshoot hello world](build/img/1.jpeg)
+![screenshoot hello world](asset/01.jpg)
 
 ## Getting Started
 
